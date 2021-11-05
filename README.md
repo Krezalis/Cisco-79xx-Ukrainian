@@ -1,5 +1,11 @@
 # Cisco-79xx-Ukrainian
 
+Перевірено на 7942G
+https://blog.uaid.net.ua/cisco-ip-7942g/
+
+![Cisco_IP_Phone_7942G_01](https://user-images.githubusercontent.com/4151282/140582191-7049cf59-e369-4a43-a8c9-bd74a0782541.jpg)
+
+
 Локалізація міститься у файлі **mk-sip.jar** це ZIP архів з наступною структурою:
 
 📁resources
