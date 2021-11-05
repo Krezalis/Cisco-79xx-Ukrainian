@@ -1,0 +1,15 @@
+<skin>
+    <fontItem fontIndex="0" size="12" style="normal" tabWidth="10" tabTolerance="3"/>
+    <fontItem fontIndex="1" size="16" style="normal" tabWidth="20" tabTolerance="5"/>
+    <fontItem fontIndex="2" size="24" style="normal" tabWidth="20" tabTolerance="5"/>
+    <fontReference UIComponent="overview" fontIndex="0"/>
+    <fontReference UIComponent="menuitem" fontIndex="1"/>
+    <fontReference UIComponent="text" fontIndex="0"/>
+    <fontReference UIComponent="title" fontIndex="1"/>
+    <fontReference UIComponent="kate" fontIndex="1"/>
+    <fontReference UIComponent="softkey" fontIndex="0"/>
+    <fontReference UIComponent="prompt" fontIndex="0"/>
+    <fontReference UIComponent="callerid" fontIndex="1"/>
+    <fontReference UIComponent="kemtext" fontIndex="2"/>
+    <fontReference UIComponent="small" fontIndex="0"/>
+</skin>
