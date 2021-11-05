@@ -17,3 +17,22 @@
 - sip-s-dictionary.utf8.xml
 - target-dictionary.utf8.xml
 - target-skin.xml
+
+У SEP------------.cnf.xml прописуємо:
+
+```xml
+<userLocale>
+  <name>Ukraine</name> 
+  <uid></uid> 
+  <langCode>uk_UA</langCode> 
+  <version>8.4.3.1000-1</version> 
+  <winCharSet>utf-8</winCharSet> 
+</userLocale>
+<networkLocale>Ukraine</networkLocale> 
+<networkLocaleInfo> 
+  <name>Ukraine</name> 
+  <uid></uid> 
+  <version>8.4.3.1000-1</version> 
+</networkLocaleInfo>
+```
+і кладемо у файл на TFTP /Ukraine/mk-sip.jar
