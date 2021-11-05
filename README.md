@@ -1,4 +1,4 @@
-# Cisco-79xx-Ukrainian
+# Українізація телефонів Cisco-7942 (79xx)
 
 Перевірено на 7942G
 https://blog.uaid.net.ua/cisco-ip-7942g/
