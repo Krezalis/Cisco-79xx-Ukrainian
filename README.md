@@ -31,14 +31,14 @@ https://blog.uaid.net.ua/cisco-ip-7942g/
   <name>Ukraine</name> 
   <uid></uid> 
   <langCode>uk_UA</langCode> 
-  <version>8.4.3.1000-1</version> 
+  <version>9.4</version> 
   <winCharSet>utf-8</winCharSet> 
 </userLocale>
 <networkLocale>Ukraine</networkLocale> 
 <networkLocaleInfo> 
   <name>Ukraine</name> 
   <uid></uid> 
-  <version>8.4.3.1000-1</version> 
+  <version>9.4</version> 
 </networkLocaleInfo>
 ```
 і кладемо у файл на TFTP /Ukraine/mk-sip.jar
