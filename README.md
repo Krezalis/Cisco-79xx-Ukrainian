@@ -42,3 +42,6 @@ https://blog.uaid.net.ua/cisco-ip-7942g/
 </networkLocaleInfo>
 ```
 і кладемо у файл на TFTP /Ukraine/mk-sip.jar
+
+
+![Ukraine_alert](https://github.com/Krezalis/Cisco-79xx-Ukrainian/assets/4151282/aeb02477-d018-4531-b504-d2307deadf76)
