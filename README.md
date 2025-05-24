@@ -45,7 +45,7 @@ https://blog.uaid.net.ua/cisco-ip-7942g/
 
 # Керування фоном заставкою
 У конфіг додати 
-```
+```xml
 <authenticationURL>http://10.7.0.1/cisco/authentication.php</authenticationURL>
 <phonePersonalization>1</phonePersonalization>
 <autoCallPickupEnable>true</autoCallPickupEnable>
