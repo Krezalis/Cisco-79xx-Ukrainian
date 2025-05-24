@@ -45,13 +45,15 @@ https://blog.uaid.net.ua/cisco-ip-7942g/
 
 # Керування фоном заставкою
 У конфіг додати 
-```<authenticationURL>http://10.7.0.1/cisco/authentication.php</authenticationURL>
+```
+<authenticationURL>http://10.7.0.1/cisco/authentication.php</authenticationURL>
 <phonePersonalization>1</phonePersonalization>
 <autoCallPickupEnable>true</autoCallPickupEnable>
 ```
 
 І в запит додати заголовки:
-```Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+```
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
 Content-Length: data.length
 Authorization: Basic + Buffer.from('1' + ':' + '1').toString('base64')
 ```
