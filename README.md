@@ -57,7 +57,8 @@ Authorization: Basic + Buffer.from('1' + ':' + '1').toString('base64')
 ```
 
 За адресою авторизацї починна бути відповідь
-```AUTHORIZED
+```
+AUTHORIZED
 ```
 
 ![Ukraine_alert](https://github.com/Krezalis/Cisco-79xx-Ukrainian/assets/4151282/aeb02477-d018-4531-b504-d2307deadf76)
