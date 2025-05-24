@@ -47,14 +47,17 @@ https://blog.uaid.net.ua/cisco-ip-7942g/
 У конфіг додати 
 ```<authenticationURL>http://10.7.0.1/cisco/authentication.php</authenticationURL>
 <phonePersonalization>1</phonePersonalization>
-<autoCallPickupEnable>true</autoCallPickupEnable>```
+<autoCallPickupEnable>true</autoCallPickupEnable>
+```
 
 І в запит додати заголовки:
 ```Content-Type: application/x-www-form-urlencoded; charset=UTF-8
 Content-Length: data.length
-Authorization: Basic + Buffer.from('1' + ':' + '1').toString('base64')```
+Authorization: Basic + Buffer.from('1' + ':' + '1').toString('base64')
+```
 
 За адресою авторизацї починна бути відповідь
-```AUTHORIZED```
+```AUTHORIZED
+```
 
 ![Ukraine_alert](https://github.com/Krezalis/Cisco-79xx-Ukrainian/assets/4151282/aeb02477-d018-4531-b504-d2307deadf76)
